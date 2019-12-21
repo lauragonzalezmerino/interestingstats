@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>Interesting Statistics from LA and NYC!</title>
+	</head>
+	<body>
+	<h1> Interesting Statistics from LA and NYC! </h1>
+	<h2> Baby names </h2>
+		<img width="700" alt="Frequency of name Avery in NYC" src="Avery_baby_names_graph.png">
+		<p>Info on baby names</p>
+		<a href="https://catalog.data.gov/dataset/most-popular-baby-names-by-sex-and-mothers-ethnic-group-new-york-city-8c742">Data Source</a>
+	<h2> Job Applications </h2>
+		<img width="700" alt="Top 10  job applications in LA" src="Job_applicants_graph.png">
+		<p>Info on job applications</p>
+		<a href="https://catalog.data.gov/dataset/applicant-information-from-7-1-2014-to-9-30-2014-7835b"> Data Source </a>
+	<p> __________________________________________________ </p>
+	<a href="https://github.com/mikeizbicki/cmc-csci040/tree/master/hw_04"> A project for HW 4 in CS40 </a>
+	</body>
+</html>
